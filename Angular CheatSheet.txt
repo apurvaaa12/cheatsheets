@@ -1,0 +1,15 @@
+ng new myNewProject # create a new project
+
+ng serve # build and deploy the app for debugging
+
+ng build --prod # build the app for production and put the files in the dist/ folder
+
+ng add @angular/material # install and configure the Angular Material library
+
+npm install -s @angular/material # install the Angular Material library, without configuring anything
+
+ng generate component myComponent # create a new component
+
+https://betterprogramming.pub/the-essential-angular-cheat-sheet-1f677e5bc83
+
+
